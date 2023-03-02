@@ -1,2 +1,2 @@
-# zomato-project
+# Bootstap-project
 the landing page of zomato website
